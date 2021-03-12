@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="122" started-at="2021-03-12T14:46:15Z" finished-at="2021-03-12T14:46:15Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="122" started-at="2021-03-12T14:46:15Z" finished-at="2021-03-12T14:46:15Z">
+      <class name="com.testauto.exam.final_assignment_calculator.BasicCalculatorTest">
+        <test-method status="PASS" signature="testMultiplication()[pri:0, instance:testMultiplication(com.testauto.exam.final_assignment_calculator.BasicCalculatorTest)]" name="testMultiplication" duration-ms="11" started-at="2021-03-12T15:46:15Z" finished-at="2021-03-12T15:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplication -->
+        <test-method status="PASS" signature="testAddition()[pri:0, instance:testAddition(com.testauto.exam.final_assignment_calculator.BasicCalculatorTest)]" name="testAddition" duration-ms="2" started-at="2021-03-12T15:46:15Z" finished-at="2021-03-12T15:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method status="PASS" signature="testDivision()[pri:0, instance:testDivision(com.testauto.exam.final_assignment_calculator.BasicCalculatorTest)]" name="testDivision" duration-ms="3" started-at="2021-03-12T15:46:15Z" finished-at="2021-03-12T15:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivision -->
+        <test-method status="PASS" signature="testSubtraction()[pri:0, instance:testSubtraction(com.testauto.exam.final_assignment_calculator.BasicCalculatorTest)]" name="testSubtraction" duration-ms="2" started-at="2021-03-12T15:46:15Z" finished-at="2021-03-12T15:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtraction -->
+      </class> <!-- com.testauto.exam.final_assignment_calculator.BasicCalculatorTest -->
+      <class name="com.testauto.exam.final_assignment_calculator.AdvancedCalculatorTest">
+        <test-method status="PASS" signature="testRaisedToThePowerOf()[pri:0, instance:testRaisedToThePowerOf(com.testauto.exam.final_assignment_calculator.AdvancedCalculatorTest)]" name="testRaisedToThePowerOf" duration-ms="2" started-at="2021-03-12T15:46:15Z" finished-at="2021-03-12T15:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRaisedToThePowerOf -->
+        <test-method status="PASS" signature="testMax()[pri:0, instance:testMax(com.testauto.exam.final_assignment_calculator.AdvancedCalculatorTest)]" name="testMax" duration-ms="3" started-at="2021-03-12T15:46:15Z" finished-at="2021-03-12T15:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMax -->
+        <test-method status="PASS" signature="testMin()[pri:0, instance:testMin(com.testauto.exam.final_assignment_calculator.AdvancedCalculatorTest)]" name="testMin" duration-ms="2" started-at="2021-03-12T15:46:15Z" finished-at="2021-03-12T15:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMin -->
+        <test-method status="PASS" signature="testSquareRoot()[pri:0, instance:testSquareRoot(com.testauto.exam.final_assignment_calculator.AdvancedCalculatorTest)]" name="testSquareRoot" duration-ms="1" started-at="2021-03-12T15:46:15Z" finished-at="2021-03-12T15:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquareRoot -->
+        <test-method status="PASS" signature="testSquare()[pri:0, instance:testSquare(com.testauto.exam.final_assignment_calculator.AdvancedCalculatorTest)]" name="testSquare" duration-ms="1" started-at="2021-03-12T15:46:15Z" finished-at="2021-03-12T15:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquare -->
+      </class> <!-- com.testauto.exam.final_assignment_calculator.AdvancedCalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

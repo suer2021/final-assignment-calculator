@@ -5,6 +5,7 @@ package com.testauto.exam.final_assignment_calculator;
  */
 
 public interface BasicOperations {
+	
 	public double addition(double firstNumber, double secondNumber);
 	public double subtraction(double firstNumber, double secondNumber);
 	public double multiplication(double firstNumber, double secondNumber);
